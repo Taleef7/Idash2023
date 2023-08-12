@@ -1,0 +1,640 @@
+[
+{
+    "patientID": 9319,
+    "studyID": 3,
+    "timestamp": 1641024390,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8837,
+    "studyID": 3,
+    "timestamp": 1641026818,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9319,
+    "studyID": 3,
+    "timestamp": 1641027410,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_02_Mental health disease or condition",
+    "01_03_Sexual or reproductive disease or condition",
+    "02_01_Mental health disease or condition",
+    "06_01_Visit dates",
+    "06_02_Name of physician"
+    ]
+},
+{
+    "patientID": 8473,
+    "studyID": 3,
+    "timestamp": 1641027561,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "02_01_Mental health disease or condition"
+    ]
+},
+{
+    "patientID": 3106,
+    "studyID": 3,
+    "timestamp": 1641027596,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "02_01_Mental health disease or condition"
+    ]
+},
+{
+    "patientID": 5313,
+    "studyID": 58,
+    "timestamp": 1641027682,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 6179,
+    "studyID": 3,
+    "timestamp": 1641027764,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9662,
+    "studyID": 3,
+    "timestamp": 1641029766,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 3448,
+    "studyID": 3,
+    "timestamp": 1641031638,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 2617,
+    "studyID": 3,
+    "timestamp": 1641033115,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "02_02_Substance abuse related disease or condition"
+    ]
+},
+{
+    "patientID": 3448,
+    "studyID": 3,
+    "timestamp": 1641033480,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9662,
+    "studyID": 3,
+    "timestamp": 1641034293,
+    "categorySharingChoices": [
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter"
+    ],
+    "elementSharingChoices": [
+    "01_02_Mental health disease or condition",
+    "01_03_Sexual or reproductive disease or condition"
+    ]
+},
+{
+    "patientID": 5724,
+    "studyID": 3,
+    "timestamp": 1641034966,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "04_Biospecimen",
+    "06_Health Care Encounter"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 6179,
+    "studyID": 3,
+    "timestamp": 1641035214,
+    "categorySharingChoices": [
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "01_03_Sexual or reproductive disease or condition"
+    ]
+},
+{
+    "patientID": 8867,
+    "studyID": 3,
+    "timestamp": 1641036167,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 6604,
+    "studyID": 3,
+    "timestamp": 1641037691,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8748,
+    "studyID": 3,
+    "timestamp": 1641038682,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 2617,
+    "studyID": 3,
+    "timestamp": 1641040510,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9608,
+    "studyID": 11,
+    "timestamp": 1641040939,
+    "categorySharingChoices": [
+    "06_Health Care Encounter"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "01_02_Mental health disease or condition"
+    ]
+},
+{
+    "patientID": 5263,
+    "studyID": 3,
+    "timestamp": 1641040984,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_02_Mental health disease or condition",
+    "02_01_Mental health disease or condition",
+    "06_01_Visit dates",
+    "06_02_Name of physician"
+    ]
+},
+{
+    "patientID": 8748,
+    "studyID": 3,
+    "timestamp": 1641041224,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8748,
+    "studyID": 3,
+    "timestamp": 1641041228,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9456,
+    "studyID": 3,
+    "timestamp": 1641041940,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "06_01_Visit dates",
+    "06_02_Name of physician"
+    ]
+},
+{
+    "patientID": 5724,
+    "studyID": 3,
+    "timestamp": 1641042424,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8473,
+    "studyID": 3,
+    "timestamp": 1641043523,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 4866,
+    "studyID": 2,
+    "timestamp": 1641043710,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8787,
+    "studyID": 3,
+    "timestamp": 1641044039,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "02_02_Substance abuse related disease or condition"
+    ]
+},
+{
+    "patientID": 8867,
+    "studyID": 3,
+    "timestamp": 1641044160,
+    "categorySharingChoices": [
+    "02_Current or Previous Disease or Condition",
+    "04_Biospecimen",
+    "05_Socioeconomic Status"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "06_03_Specialty of the hospital or clinic"
+    ]
+},
+{
+    "patientID": 8837,
+    "studyID": 3,
+    "timestamp": 1641044585,
+    "categorySharingChoices": [
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "01_03_Sexual or reproductive disease or condition"
+    ]
+},
+{
+    "patientID": 6501,
+    "studyID": 3,
+    "timestamp": 1641045603,
+    "categorySharingChoices": [
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_02_Mental health disease or condition",
+    "01_03_Sexual or reproductive disease or condition"
+    ]
+},
+{
+    "patientID": 3945,
+    "studyID": 97,
+    "timestamp": 1641046723,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 5724,
+    "studyID": 3,
+    "timestamp": 1641047653,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition"
+    ]
+},
+{
+    "patientID": 8837,
+    "studyID": 3,
+    "timestamp": 1641047887,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 9456,
+    "studyID": 3,
+    "timestamp": 1641049011,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "05_Socioeconomic Status",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "01_02_Mental health disease or condition",
+    "02_02_Substance abuse related disease or condition"
+    ]
+},
+{
+    "patientID": 5724,
+    "studyID": 3,
+    "timestamp": 1641049243,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 4112,
+    "studyID": 3,
+    "timestamp": 1641049292,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_02_Mental health disease or condition",
+    "01_03_Sexual or reproductive disease or condition",
+    "02_02_Substance abuse related disease or condition"
+    ]
+},
+{
+    "patientID": 2617,
+    "studyID": 3,
+    "timestamp": 1641049404,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 3106,
+    "studyID": 3,
+    "timestamp": 1641049670,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 6604,
+    "studyID": 3,
+    "timestamp": 1641050024,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 5669,
+    "studyID": 3,
+    "timestamp": 1641050190,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8473,
+    "studyID": 3,
+    "timestamp": 1641050341,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 3448,
+    "studyID": 3,
+    "timestamp": 1641050428,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 5764,
+    "studyID": 3,
+    "timestamp": 1641050496,
+    "categorySharingChoices": [
+    "01_Family Health History"
+    ],
+    "elementSharingChoices": [
+    "02_02_Substance abuse related disease or condition",
+    "06_03_Specialty of the hospital or clinic",
+    "06_04_Clinic location"
+    ]
+},
+{
+    "patientID": 9456,
+    "studyID": 3,
+    "timestamp": 1641051175,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 4112,
+    "studyID": 3,
+    "timestamp": 1641051222,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8867,
+    "studyID": 3,
+    "timestamp": 1641051354,
+    "categorySharingChoices": [
+    "01_Family Health History",
+    "02_Current or Previous Disease or Condition",
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8867,
+    "studyID": 3,
+    "timestamp": 1641051742,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8787,
+    "studyID": 3,
+    "timestamp": 1641051861,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 8787,
+    "studyID": 3,
+    "timestamp": 1641051865,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "01_02_Mental health disease or condition"
+    ]
+},
+{
+    "patientID": 4112,
+    "studyID": 3,
+    "timestamp": 1641051941,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "06_Health Care Encounter",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "02_01_Mental health disease or condition"
+    ]
+},
+{
+    "patientID": 5669,
+    "studyID": 3,
+    "timestamp": 1641052383,
+    "categorySharingChoices": [],
+    "elementSharingChoices": []
+},
+{
+    "patientID": 4112,
+    "studyID": 3,
+    "timestamp": 1641052419,
+    "categorySharingChoices": [
+    "03_Living Environment and Lifestyle",
+    "04_Biospecimen",
+    "05_Socioeconomic Status",
+    "07_Laboratory Test Results"
+    ],
+    "elementSharingChoices": [
+    "01_01_Substance abuse related disease or condition",
+    "06_02_Name of physician"
+    ]
+}
+]
